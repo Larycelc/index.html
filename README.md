@@ -19,6 +19,12 @@
         <p> O restaurante D.O.M foi inaugurado no ano de 1999. E o restaurante Dalva e Dito vai voltar a funcionar
 sexta-feira (7).  o primeira da grife a reabrir depois de quase cinco meses de reclusão. 
 No dia 6 de julho, os cerca de 55 mil estabelecimentos de São Paulo foram liberados pela prefeitura.</p>
-<p><img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fdomrestaurante.com.br%2Fpt-br%2Falex.html&psig=AOvVaw00foHhe8KAdx_mzrfipkBD&ust=1692275512515000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjh99qX4YADFQAAAAAdAAAAABAD" alt=""></p>
+<img src="download.jfif">
+ <ul>
+    <h3>Receitas Do Chef Alex Atala</h3>
+    <li>Típico da culinária francesa, o aligot nada mais é do que um purê de batatas com queijo, que 
+ tem uma consistência bem lisa e cremosa, e combina bem com um picadinho bem temperado.
+ingredientes: 
+1kg de batata asterix </li>
 </body>
 </html>
