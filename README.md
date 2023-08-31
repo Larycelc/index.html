@@ -25,6 +25,24 @@ No dia 6 de julho, os cerca de 55 mil estabelecimentos de São Paulo foram liber
     <li>Típico da culinária francesa, o aligot nada mais é do que um purê de batatas com queijo, que 
  tem uma consistência bem lisa e cremosa, e combina bem com um picadinho bem temperado.
 ingredientes: 
-1kg de batata asterix </li>
+1,2kg de batata asterix 
+    1 dente de alho
+    4 colheres de sopa de creme de leite fresco
+    75 g de manteiga
+    600 g de queijo em lâminas (ementhal, gruyère ou tipo suíço)
+    Sal a gosto
+    <strong>MODO DE PREPARO:</strong>
+    1.Cozinhe as batatas e amasse-as ainda quentes.
+    2. Leve o purê a uma panela de fundo espesso e leve ao fogo bem fraco (de preferência use uma placa de proteção entre a panela e o fogo).
+    3.Mexa com uma colher de pau, fazendo movimentos, formando o número "8" e acrescente aos poucos a manteiga.
+    4.Retire a panela do fogo e adicione um dente de alho amassado. Finalmente, incorpore o queijo em lâminas finas e o sal.
+    5.Esta operação deve ser feita em banho-maria, ou voltando a panela de tempos em tempos em fogo baixo, para o calor não ficar muito forte, sempre trabalhando
+    com a colher em movimento do "8" e levantando a colher para "esticar" o queijo.
+    6.Quando levantado, o queijo deve formar filamentos longos.
+    7.Uma vez incorporado o queijo, adicione o creme de leite fresco e continue trabalhando com o mesmo movimento, mexendo bem e levantando a colher durante 10
+    a 15 minutos.
+    8.Sirva bem quente, de preferência na própria panela.
+    </li>
+    </ul>
 </body>
 </html>
