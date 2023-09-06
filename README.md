@@ -25,12 +25,12 @@ No dia 6 de julho, os cerca de 55 mil estabelecimentos de São Paulo foram liber
     <li>Típico da culinária francesa, o aligot nada mais é do que um purê de batatas com queijo, que 
  tem uma consistência bem lisa e cremosa, e combina bem com um picadinho bem temperado.
 ingredientes: 
-1,2kg de batata asterix 
-    1 dente de alho
-    4 colheres de sopa de creme de leite fresco
-    75 g de manteiga
-    600 g de queijo em lâminas (ementhal, gruyère ou tipo suíço)
-    Sal a gosto
+1,2kg de batata asterix;
+    1 dente de alho;
+    4 colheres de sopa de creme de leite fresco;
+    75 g de manteiga;
+    600 g de queijo em lâminas (ementhal, gruyère ou tipo suíço);
+    Sal a gosto.
     <strong>MODO DE PREPARO:</strong>
     1.Cozinhe as batatas e amasse-as ainda quentes.
     2. Leve o purê a uma panela de fundo espesso e leve ao fogo bem fraco (de preferência use uma placa de proteção entre a panela e o fogo).
@@ -43,6 +43,17 @@ ingredientes:
     a 15 minutos.
     8.Sirva bem quente, de preferência na própria panela.
     </li>
+     <li> <strong>INGREDIENTES:</strong> Paleta de Cordeiro com Vinho Branco e Alecrim
+    1 paleta de cordeiro (1,05kg);
+    1 galho de alecrim (1g);
+    3 dentes de alho (5g);
+    10 grão de pimenta-do-reino-preta (2g), quebrado;
+    750ml de vinho branco seco;
+    20 batatas bolinhas (450g);
+    1,2 litro de água;
+    1 colher(sopa) (9g) de farinha de trigo;
+    Sal a gosto.
+</li>
     </ul>
 </body>
 </html>
